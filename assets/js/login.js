@@ -4,8 +4,8 @@ const loginApp = {
             url: "https://vue3-course-api.hexschool.io",
             path: "teach",
             admin: {
-                "username": "oiuuiooiu@icloud.com",
-                "password": "k485483UIO"
+                "username": "",
+                "password": ""
             }
         }
     },
